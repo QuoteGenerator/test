@@ -1,1 +1,2 @@
 Minor release 1
+Minor release 2
