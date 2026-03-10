@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Zeile 1: Änderung aus repo-local
-=======
-Zeile 1: Änderung aus repo-clone
->>>>>>> c77a7ed6c4405bfd511d6a25c82efdd0ee84c398
